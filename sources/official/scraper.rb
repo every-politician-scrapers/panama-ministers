@@ -7,17 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('ul li')[1].text.tidy.delete_prefix('Su Excelencia ')
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('ul li')[0].text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.col-xs-12')
     end
   end
 end
