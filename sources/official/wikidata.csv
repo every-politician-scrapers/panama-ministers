@@ -1,1 +1,4 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q105724712,Erika Mouynes,Erika Mouynes,,,Q64482042,Ministro de Relaciones Exteriores de Panamá,2020-12-02,Q105724712-9975AD0D-33F0-48BC-9727-7FFDA8791E30
+Q64481983,Alejandro Ferrer López,Alejandro Ferrer López,,,Q64482042,Ministro de Relaciones Exteriores de Panamá,2019-07-01,Q64481983-e7665fe9-4a11-4c21-b9a9-8dda25868bba
+Q96182040,Janaina Tewaney,Janaina Tewaney,,,Q110445000,,2020-03-06,Q96182040-e6bd4980-432b-8394-6ed6-d2853a06cb0a
