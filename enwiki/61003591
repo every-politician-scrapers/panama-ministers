@@ -1,0 +1,56 @@
+{
+  "title": "Alejandro Ferrer López",
+  "pageID": 61003591,
+  "categories": [
+    "Harvard University alumni",
+    "University of Michigan Law School alumni",
+    "Panamanian lawyers",
+    "Foreign Ministers of Panama",
+    "1967 births",
+    "Living people",
+    "People from Panama City"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alejandro Guillermo Ferrer López (born February 1, 1967, in Panama City, Panama) is a Panamanian politician and lawyer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Panama City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Panama"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alejandro Guillermo Ferrer López"
+                ]
+              }
+            },
+            {
+              "text": "He was Vice Chancellor of Panama, Minister of Commerce and Industry and served as Minister of Foreign Affairs of Panama from July 1, 2019, to December 2, 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "Panamanian politician and lawyer",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}

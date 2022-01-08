@@ -1,0 +1,101 @@
+{
+  "title": "Erika Mouynes",
+  "pageID": 66950078,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "Place of birth missing (living people)",
+    "Government ministers of Panama",
+    "Foreign Ministers of Panama",
+    "Female foreign ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Erika Mouynes (born 24 November 1977) is a Panamanian politician.",
+              "links": [
+                {
+                  "text": "Panamanian",
+                  "type": "internal",
+                  "page": "Panamanians"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Erika Mouynes"
+                ]
+              }
+            },
+            {
+              "text": "She serves as Minister of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Panama)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Panamanian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1977",
+          "month": "11",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "12",
+            "2"
+          ],
+          "lc": "yes",
+          "since": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Erika Mouynes"
+          },
+          "image": {
+            "text": "Erika Mouynes, Minister of Foreign Affairs of Panama (cropped).jpg"
+          },
+          "caption": {
+            "text": "Mouynes in 2021"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Panama)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 December 2020"
+          },
+          "birth_date": {
+            "text": "November 24, 1977"
+          }
+        }
+      ]
+    }
+  ]
+}
