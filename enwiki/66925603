@@ -1,0 +1,51 @@
+{
+  "title": "Janaina Tewaney",
+  "pageID": 66925603,
+  "categories": [
+    "Living people",
+    "1984 births",
+    "Place of birth missing (living people)",
+    "Women government ministers of Panama",
+    "21st-century women politicians",
+    "Female interior ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Janaina Tewaney Mencomo (born 14 July 1984) is a Panamanian politician.",
+              "formatting": {
+                "bold": [
+                  "Janaina Tewaney Mencomo"
+                ]
+              }
+            },
+            {
+              "text": "She serves as Minister of Government of Panama."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Panamanian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "2020",
+            "3",
+            "6"
+          ],
+          "lc": "yes",
+          "since": "yes",
+          "template": "as of"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Jose Gabriel Carrizo",
+  "pageID": 64051420,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Vice presidents of Panama",
+    "People from Panama City"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Gabriel Carrizo Jaén (Penonomé, 25 June 1983) is a Panamanian politician who is serving as the Vice President of Panama since 1 July  2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Panama"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Gabriel Carrizo Jaén"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Democratic Revolutionary Party since 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Revolutionary Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1983",
+          "month": "6",
+          "day": "25",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "José Gabriel Carrizo"
+          },
+          "birth_date": {
+            "text": "June 25, 1983"
+          },
+          "office1": {
+            "text": "Vice President of Panama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Panama"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 July 2019"
+          },
+          "president1": {
+            "text": "Laurentino Cortizo",
+            "links": [
+              {
+                "text": "Laurentino Cortizo",
+                "type": "internal",
+                "page": "Nito Cortizo"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Isabel Saint Malo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isabel Saint Malo"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Revolutionary Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Revolutionary Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Julieta Spiegel"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ]
+    }
+  ]
+}
