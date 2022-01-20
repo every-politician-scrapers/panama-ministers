@@ -1,7 +1,18 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q886965,President of Panama,Q804,,,Q96357496,,,Q5489158,,
 Q7925059,Vice President of Panama,Q804,Q804,,,1904-09,,,,Vice President of Panama
+Q110628354,Minister of Agricultural Development,Q804,Q804,,,,,,,
+Q110628237,Minister for Canal Affairs,Q804,Q804,,,,,,,
 Q64481998,Minister of Commerce and Industries (Panama),Q804,Q804,,,,,,,
+Q110628225,Minister of Economy and Finance,Q804,Q804,,,,,,,
 Q110445464,Minister of Education,,Q804,,,,,,,
+Q110628491,Minister of the Environment,Q804,Q804,,,,,,,
 Q64482042,Foreign Minister,Q804,Q804,,,,,,,
 Q110445000,Minister of Government of Panama,,Q804,,,,,,,
+Q110628364,Minister of Health,Q804,Q804,,,,,,,
+Q110628253,Minister of Housing and Land Management,Q804,Q804,,,,,,,
+Q110628373,Minister of Labour,Q804,Q804,,,,,,,
+Q110628286,Minister of the Presidency,Q804,Q804,,,,,,,
+Q110628350,Minister of Public Security,Q804,Q804,,,,,,,
+Q110628313,Minister of Public Works,Q804,Q804,,,,,,,
+Q110628381,Minister of Social Development,Q804,Q804,,,,,,,
