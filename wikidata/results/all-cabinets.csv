@@ -1,2 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q61522314,Council of Ministers of Panama,1903-11-04,11,,,,,,,,,,,,,,
+,Q67578313,Martinelli Cabinet,,,2009-07-01,11,2014-07-01,11,,,,,,,,,Q64371921,Juan Carlos Varela Cabinet
+,Q64371921,Juan Carlos Varela Cabinet,,,2014-07-01,11,2019-07-01,11,,,,,,,Q67578313,Martinelli Cabinet,Q64371983,Cortizo Cabinet
+,Q64371983,Cortizo Cabinet,,,2019-07-01,11,,,,,,,,,Q64371921,Juan Carlos Varela Cabinet,,
