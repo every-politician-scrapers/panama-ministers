@@ -1,0 +1,13 @@
+id,name,relationship,relative,relativename
+Q104007593,Natalia Royo,father,Q665630,Arístides Royo
+Q104007593,Natalia Royo,mother,Q79932627,Adela Ruiz de Royo
+Q1134096,Juan Carlos Varela,spouse,Q16913059,Lorena Castillo de Varela
+Q231946,Mireya Moscoso,spouse,Q603836,Arnulfo Arias
+Q276283,Martín Torrijos,father,Q332055,Omar Torrijos
+Q276283,Martín Torrijos,sibling,Q16300560,Dumas Torrijos Pauzner
+Q276283,Martín Torrijos,spouse,Q7937703,Vivian Fernández
+Q4712230,Alberto Vallarino Clément,relative,Q80699440,Carlos Clement Sosa
+Q57491,Ricardo Martinelli,spouse,Q6774141,Marta Linares de Martinelli
+Q665630,Arístides Royo,child,Q104007593,Natalia Royo
+Q665630,Arístides Royo,spouse,Q79932627,Adela Ruiz de Royo
+Q7159791,Pedro Miguel González Pinzón,father,Q5550270,Gerardo González Vernaza
