@@ -1,5 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q886965,President of Panama,Q804,,,Q96357496,,,Q5489158,,
+Q886965,President of Panama,Q804,Q804,,Q96357496,,,Q5489158,,
 Q7925059,Vice President of Panama,Q804,Q804,,,1904-09,,,,Vice President of Panama
 Q110628354,Minister of Agricultural Development,Q804,Q804,,,,,,,
 Q110628237,Minister for Canal Affairs,Q804,Q804,,,,,,,
