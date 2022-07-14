@@ -836,20 +836,20 @@
               }
             },
             "Nombre": {
-              "text": "Carla García",
+              "text": "Sheyla Grajales",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Carla García"
+                  "page": "Sheyla Grajales"
                 }
               ]
             },
             "Partido": {
-              "text": "PRD",
+              "text": "MOLIRENA",
               "links": [
                 {
                   "type": "internal",
-                  "page": "PRD "
+                  "page": "MOLIRENA"
                 }
               ]
             },
