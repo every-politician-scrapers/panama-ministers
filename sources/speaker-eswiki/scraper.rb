@@ -18,18 +18,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[_ _ name dates].freeze
     end
-
-    def empty?
-      tds[2].text == tds[3].text
-    end
-
-    def raw_end
-      super.gsub('en el cargo', '').tidy
-    end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 
