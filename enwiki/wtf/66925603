@@ -1,0 +1,113 @@
+{
+  "title": "Janaina Tewaney",
+  "pageID": 66925603,
+  "categories": [
+    "Living people",
+    "1984 births",
+    "Place of birth missing (living people)",
+    "Women government ministers of Panama",
+    "21st-century Panamanian women politicians",
+    "21st-century Panamanian politicians",
+    "Female interior ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Janaina Tewaney Mencomo (born 14 July 1984) is a Panamanian politician.",
+              "formatting": {
+                "bold": [
+                  "Janaina Tewaney Mencomo"
+                ]
+              }
+            },
+            {
+              "text": "She serves as Minister of Government of Panama."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Panamanian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "2020",
+            "3",
+            "6"
+          ],
+          "lc": "yes",
+          "since": "yes",
+          "template": "as of"
+        }
+      ],
+      "references": [
+        {
+          "date": "18 March 2020",
+          "title": "Cortizo snubs Molirena over cabinet appointment",
+          "work": "The Economist Group",
+          "url": "http://country.eiu.com/article.aspx?articleid=1889228172&Country=Panama&topic=Politics&subtopic=Forecast&subsubtopic=Political+stability",
+          "url-status": "live",
+          "access-date": "27 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "March 2020",
+          "work": "Rulers.org",
+          "url": "https://www.rulers.org/2020-03.html",
+          "url-status": "live",
+          "access-date": "27 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "panama-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Janaina Tewaney",
+            "links": [
+              {
+                "text": "Janaina Tewaney",
+                "type": "external",
+                "site": "https://www.mingob.gob.pa/ministra-de-gobierno-janaina-tewaney-mencomo/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

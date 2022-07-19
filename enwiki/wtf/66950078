@@ -1,0 +1,160 @@
+{
+  "title": "Erika Mouynes",
+  "pageID": 66950078,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "Place of birth missing (living people)",
+    "Government ministers of Panama",
+    "Foreign Ministers of Panama",
+    "Female foreign ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Erika Mouynes (born 24 November 1977) is a Panamanian politician.",
+              "links": [
+                {
+                  "text": "Panamanian",
+                  "type": "internal",
+                  "page": "Panamanians"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Erika Mouynes"
+                ]
+              }
+            },
+            {
+              "text": "She serves as Minister of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Panama)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Panamanian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1977",
+          "month": "11",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "12",
+            "2"
+          ],
+          "lc": "yes",
+          "since": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Erika Mouynes"
+          },
+          "image": {
+            "text": "Secretary Blinken Meets With Costa Rican Foreign Minister Solano, Dominican Republic Foreign Minister Álvarez, and Panamanian Foreign Minister Mouynes (51914237913) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Mouynes in 2022"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Panama)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 December 2020"
+          },
+          "predecessor": {
+            "text": "Alejandro Ferrer López",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alejandro Ferrer López"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 24, 1977"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Erika Mouynes",
+          "url": "https://mire.gob.pa/ministerio/ministra/",
+          "url-status": "live",
+          "access-date": "1 March 2021",
+          "website": "Ministra de Relaciones Exteriores",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2 December 2020",
+          "title": "Panama's new foreign minister sworn in",
+          "work": "Xinhuanet",
+          "url": "http://www.xinhuanet.com/english/2020-12/03/c_139560535.htm",
+          "url-status": "live",
+          "access-date": "1 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "3 December 2020",
+          "title": "Panama's New Foreign Minister Sworn in",
+          "work": "The Rio Times",
+          "url": "https://riotimesonline.com/brazil-news/mercosur/panamas-new-foreign-minister-sworn-in/",
+          "url-status": "live",
+          "access-date": "1 March 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "central america foreign"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "panama-politician-stub"
+        }
+      ]
+    }
+  ]
+}

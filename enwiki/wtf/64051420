@@ -1,0 +1,223 @@
+{
+  "title": "Jose Gabriel Carrizo",
+  "pageID": 64051420,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Vice presidents of Panama",
+    "People from Panama City",
+    "Democratic Revolutionary Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Gabriel Carrizo Jaén (Penonomé, 25 June 1983) is a Panamanian politician who is serving as the Vice President of Panama since 1 July  2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Panama"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Gabriel Carrizo Jaén"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Democratic Revolutionary Party since 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Revolutionary Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1983",
+          "month": "6",
+          "day": "25",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "José Gabriel Carrizo"
+          },
+          "birth_date": {
+            "text": "June 25, 1983"
+          },
+          "office1": {
+            "text": "Vice President of Panama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Panama"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 July 2019"
+          },
+          "president1": {
+            "text": "Laurentino Cortizo",
+            "links": [
+              {
+                "text": "Laurentino Cortizo",
+                "type": "internal",
+                "page": "Nito Cortizo"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Isabel Saint Malo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isabel Saint Malo"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Revolutionary Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Revolutionary Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Julieta Spiegel"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Perfil: José Gabriel Carrizo, compañero de Cortizo para la presidencia",
+          "url": "https://www.tvn-2.com/nuevogobierno/Jose-Gabriel-Carrizo-candidato-viceprecidente-PRD-Partido-Revolucionario-Democratico-elecciones_0_5228477163.html",
+          "date": "2019-02-02",
+          "website": "TVN",
+          "language": "es-ES",
+          "access-date": "2020-05-24",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jose was born on 25 June 1983, and lived with his parents and two brothers in Penonomé, and studied at the University of Santa María la Antigua (USMA), and obtained a bachelor degree in political and civil rights in 2000."
+            },
+            {
+              "text": "He was also the head of the student association of the university."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.prensa.com/politica/Cortizo-Gabriel-Carrizo-Tribunal-Electoral_0_5229976992.html",
+          "title": "Laurentino Cortizo oficializa a José Gabriel Carrizo ante el Tribunal Electoral &#124; La Prensa Panamá",
+          "date": "4 February 2019",
+          "website": "prensa.com",
+          "accessdate": "27 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jose is married to Julieta Spiegel."
+            },
+            {
+              "text": "Together they have three children"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2019-07-01",
+          "title": "Perfil de José Gabriel Carrizo",
+          "url": "https://www.midiario.com/nacionales/perfil-de-jose-gabriel-carrizo/",
+          "access-date": "2020-06-29",
+          "website": "www.midiario.com",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Professional career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jose Carrizo began his career as a lawyer."
+            },
+            {
+              "text": "He, along with his lawyer friends, established a forensic C&A firm."
+            },
+            {
+              "text": "The firm was involved in construction, live stocks and various sectors."
+            },
+            {
+              "text": "He played an important role in establishing the Democratic Revolutionary Party in 2007."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Cortizo propone a José Gabriel Carrizo como su vicepresidente",
+          "url": "https://www.metrolibre.com/politica/124283-cortizo-propone-jose-gabriel-carrizo-como-su-vicepresidente.html",
+          "website": "Metrolibre",
+          "language": "es",
+          "access-date": "2020-05-24",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
